@@ -2,7 +2,7 @@
 Notes taking application. This application is made using Node J s as a backend.
 
 <!-- The following paragraph should be kept synchronized with the description in appinfo/info.xml -->
-The Notes app is a distraction free notes.It provides categories for better organizationalsyntax. 
+The Notes app is a distraction free notes.It provides categories for better organizational syntax. 
 Notes are saved as files in your backend for an easy integration into third-party apps 
 
 
@@ -11,11 +11,17 @@ Notes are saved as files in your backend for an easy integration into third-part
 
 
 :ballot_box_with_check: avaScript Used<br>
+
 :ballot_box_with_check: DOM manipulations<br>
+
 :ballot_box_with_check: conditionals<br>
+
 :ballot_box_with_check: eventListeners<br>
+
 :ballot_box_with_check: CSS style manipulations<br>
+
 :ballot_box_with_check: functions…<br>
+
 :ballot_box_with_check: …pretty much all of the language<br>
 
 
